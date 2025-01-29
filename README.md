@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremias Landry</h1>
 <h3 align="center">A dedicated frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Playify (videogame oriented e-commerce)**
+- 🔭 I’m currently working and mastering **Drag and Drop**
 
 - 🌱 I’m currently learning **Testing Libraries**
 
